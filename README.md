@@ -1,3 +1,7 @@
+Main Project: my-routine
+
+
+
 ### Hi there 👋
 
 <!--
@@ -13,4 +17,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Hello!
+If you here to see my repositories, they are organized into tags, like this:
+
+**Type**
+
+- large-project
+- small-project
+- just-for-learn
+- prove-of-concept
+
+**Status**
+
+- currently-active
+- abandoned
+
+To filter, simply type these terms into the filter.
 -->
