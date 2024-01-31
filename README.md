@@ -1,4 +1,3 @@
-Main Project: my-routine
 
 
 
@@ -17,6 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Main Project: my-routine
 
 Hello!
 If you here to see my repositories, they are organized into tags, like this:
