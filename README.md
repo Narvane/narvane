@@ -4,22 +4,18 @@
 
 🏗️ _Profile under construction, more detailed and organized information about my knowledge coming soon!_
 - I am currently a fullstack developer, working with **Java** and **Javascript** (Vanilla)
-- Inclined to the **backend**
+- Inclined to **backend**
 - My main specialties are **Java** and **Spring Boot APIs**.
 - My studies are aimed at a scope of **software architecture**, **micro-services** and **code quality**
 - Enthusiastic about what I call "freestyle study". It consists of not just being tied to completing courses, books or certifications. Always seeking for a more productive and enjoyable study time, with practice, discipline and organization.
 
 ---
 
-**Technologies**
+**Technologies, projects & Study tracking**
 
-🚧 *Soon*
+_I designed a public Notion page for this, please take a look_
 
----
-
-**Study tracking**
-
-🚧 *Soon*
+https://stealth-wing-ca5.notion.site/Narvane-Studies-Projects-6f40a4152f014919865dbf1ea9dd7090
 
 ---
 
