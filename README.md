@@ -2,7 +2,7 @@
 
 **About me**
 
-🏗️ _Profile under construction, more detailed and organized information about my knowledge coming soon!_
+🏗️ _Profile under construction, more detailed and organized information about me and my knowledge coming soon!_
 - I am currently a fullstack developer, working with **Java** and **Javascript** (Vanilla)
 - Inclined to **backend**
 - My main specialties are **Java** and **Spring Boot APIs**.
