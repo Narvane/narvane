@@ -9,6 +9,11 @@
 - My studies are aimed at a scope of **software architecture**, **micro-services** and **code quality**
 - Enthusiastic about what I call "freestyle study". It consists of not just being tied to completing courses, books or certifications. Always seeking for a more productive and enjoyable study time, with practice, discipline and organization.
 
+Follow my current portfolio project at: 
+- https://sharing.clickup.com/9013913601/l/h/5-90135396944-1/65f5a890d2d3e36
+- https://github.com/Narvane/sample-project
+
+<!--
 ---
 
 **Technologies, projects & Study tracking**
