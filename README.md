@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-**About me**
-
-🏗️ _Profile under construction, more detailed and organized information about me and my knowledge coming soon!_
-- I am currently a fullstack developer, working with **Java** and **Javascript** (Vanilla)
-- Inclined to **backend**
-- My main specialties are **Java** and **Spring Boot APIs**.
-- My studies are aimed at a scope of **software architecture**, **micro-services** and **code quality**
-- Enthusiastic about what I call "freestyle study". It consists of not just being tied to completing courses, books or certifications. Always seeking for a more productive and enjoyable study time, with practice, discipline and organization.
 
 Follow my current portfolio project at: 
 - https://sharing.clickup.com/9013913601/l/h/5-90135396944-1/65f5a890d2d3e36
