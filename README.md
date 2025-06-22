@@ -3,11 +3,11 @@
 
 Current portfolio projects: 
 
-**Video streaming platform with microservices architecture**
+**Video streaming platform with microservices architecture** -  *Microservices, multiple technologies*
 - https://sharing.clickup.com/9013913601/l/h/5-90135396944-1/65f5a890d2d3e36
 - https://github.com/Narvane/sample-project
 
-**Easy-economy with monolith architecture**
+**Simple economy system with monolith architecture** - *Spring, Java, React*
 - https://github.com/Narvane/easy-economy
 
 <!--
