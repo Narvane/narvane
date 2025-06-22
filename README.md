@@ -1,9 +1,14 @@
 ### Hi there 👋
 
 
-Follow my current portfolio project at: 
+Current portfolio projects: 
+
+**Video streaming platform with microservices architecture**
 - https://sharing.clickup.com/9013913601/l/h/5-90135396944-1/65f5a890d2d3e36
 - https://github.com/Narvane/sample-project
+
+**Easy-economy with monolith architecture**
+- https://github.com/Narvane/easy-economy
 
 <!--
 ---
